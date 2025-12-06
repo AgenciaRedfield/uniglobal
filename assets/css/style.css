@@ -1,0 +1,27 @@
+:root{
+  --primary:#0f4c81; /* substitute for oklch blue */
+  --accent:#f0b429; /* substitute for yellow */
+}
+
+body{font-family:'Work Sans',sans-serif;line-height:1.6;background:#fff;color:#222}
+.hero{background:linear-gradient(135deg,var(--primary),#2b78a5);}
+.hero .lead{color:#e9f2f7}
+.hero h1{color:#fff}
+.btn-primary{background:var(--primary);border-color:var(--primary);color:#fff}
+.btn-warning{background:var(--accent);border-color:var(--accent);color:#222}
+
+.section-muted{background:#f5f7fa}
+
+.service-card{background:#fff;border:1px solid #e9eef3;border-radius:10px;padding:16px;min-height:140px}
+.service-card .icon{font-size:22px;color:var(--accent);margin-bottom:10px}
+.service-card h5{font-weight:600}
+
+footer a{text-decoration:none}
+
+/* Adjustments for larger screens */
+@media (min-width: 992px){
+  .hero{padding-top:6rem;padding-bottom:6rem}
+}
+
+/* small utility */
+.text-muted-small{color:#7a8693}
