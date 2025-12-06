@@ -10,8 +10,7 @@
 
 ## 📸 Visualização
 
-*(Dica: Tire um print da tela inicial do seu site, salve como `preview.png` na raiz e ele aparecerá aqui)*
-![Preview do Site](./preview.png)
+![Uniglobal](https://uniglobal.rengoku.digital)
 
 ## 🛠 Tecnologias Utilizadas
 
