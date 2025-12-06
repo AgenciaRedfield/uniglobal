@@ -10,7 +10,7 @@
 
 ## 📸 Visualização
 
-![Uniglobal](https://uniglobal.rengoku.digital)
+https://uniglobal.rengoku.digital
 
 ## 🛠 Tecnologias Utilizadas
 
